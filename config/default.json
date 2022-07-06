@@ -1,0 +1,9 @@
+{
+    "server": {
+        "address": "localhost",
+        "port": 10944
+    },
+    "data": {
+        "pkgfolder": "pkgs"
+    }
+}
