@@ -1,0 +1,28 @@
+body {
+    margin: 0px;
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#info {
+    text-align: center;
+    width: 80%;
+    background-color: aqua;
+}
+
+#main {
+    background-color: cornsilk;
+}
+
+.file {
+    font-size: larger;
+    
+}
+
+#main {
+    text-align: center;
+    width: 80%;
+}
